@@ -1,0 +1,5 @@
+Welcome to Log File
+This is the first log entry.
+This is the second log entry.
+This is an appended log entry.
+Logging completed successfully.
